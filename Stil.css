@@ -1,0 +1,52 @@
+body {
+  background-color: #154c79;
+  font-family: fantasy;
+}
+
+h1{
+  text-align: center;
+  color: black;
+}
+
+h6{
+  text-align: left;
+  color: black;
+}
+
+
+li{
+  text-align: center;
+  color: black;
+}
+
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.overskrift {
+  margin-top: 50px;
+}
+
+.klubber {
+  font-style: italic;
+}
+
+.Bilde {
+  width: 200px;
+  border-radius: 50px;
+  border-color: black;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.KennthBernales {
+  font-style: italic;
+  color: black;
+  font-size: 20px;
+}
